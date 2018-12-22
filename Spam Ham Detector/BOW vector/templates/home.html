@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ML Flask App</title>
+</head>
+<body>
+
+<header>
+		<div class="container">
+		<div id="brandname">
+			ML App
+		</div>
+		<h2>Spam Detection</h2>
+		
+	</div>
+	</header>
+
+	<div class="ml-container">
+		<!-- it will redirect to predict function by post method -->
+		<form action="{{ url_for('predict')}}" method="POST">
+		<p> mail </p>
+		<!-- <input type="text" name="comment"/> -->
+		<textarea name="mail" rows="4" cols="50"></textarea>
+		<br/>
+
+		<input type="submit" class="btn-info" value="predict">
+		
+	</form>
+		
+	</div>
+
+
+</body>
+</html>
