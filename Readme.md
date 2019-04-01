@@ -10,10 +10,11 @@
 # Customer Segments Dataset
 * Our client is an online retailer based in the UK. They sell all-occasion gifts, and many of their customers are wholesalers.
 1) Most of their customers are from the UK, but they have a small percent of customers from other countries.
+2) They want to create groups of these international customers based on their previous purchase patterns.
+3) Their goal is to provide more tailored services and improve the way they market to these international customers.
+4) The retailer has hired us to help them create customer clusters, a.k.a "customer segments" through a data-driven approach.
 
-They want to create groups of these international customers based on their previous purchase patterns.
-Their goal is to provide more tailored services and improve the way they market to these international customers.
-The retailer has hired us to help them create customer clusters, a.k.a "customer segments" through a data-driven approach.They've provided us a dataset of past purchase data at the transaction level.Our task is to build a clustering model using that dataset.Our clustering model should factor in both aggregate sales patterns and specific items purchased.
+* They've provided us a dataset of past purchase data at the transaction level.Our task is to build a clustering model using that dataset.Our clustering model should factor in both aggregate sales patterns and specific items purchased.
 
 # Dimentionality Reduction
 * The MNIST Database(Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is widely used for training and testing in machine learning. The MNIST contains 60000 training and 10000 test images. As MNIST is high dimemsion data, visualizing it may be challenging. Here I have used different dimensionality reduction techniques (PCA and T-SNE) which are techniques for reducing the dimension of high deimesion data while retaining most of its information.
