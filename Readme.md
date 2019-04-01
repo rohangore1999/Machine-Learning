@@ -15,3 +15,10 @@ The retailer has hired us to help them create customer clusters, a.k.a "customer
 * The MNIST Database(Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is widely used for training and testing in machine learning. The MNIST contains 60000 training and 10000 test images. As MNIST is high dimemsion data, visualizing it may be challenging. Here I have used different dimensionality reduction techniques (PCA and T-SNE) which are techniques for reducing the dimension of high deimesion data while retaining most of its information.
 PCA MNIST.ipynb=> visualizing the MNIST dataset using PCA
 t-SNE MNIST=> visualizing the MNIST dataset using t-SNE
+
+# Employee Retention
+* This is the solution of the Employee Retention Problem. Access the above python notebook to get a detailed explanation of the problem statement and solution.
+The dataset is provided in the 'Files' folder.
+
+# Facebook (Kaggle Competition)
+* Facebook recruiting competition https://www.kaggle.com/c/FacebookRecruiting
