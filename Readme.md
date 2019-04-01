@@ -4,8 +4,7 @@
 # Black Friday(Kaggle Competition) 
 * Black Friday Dataset :- https://www.kaggle.com/mehdidag/black-friday. Here target feature is 'Purchase'. I ve perform EDA(Exploratory Data Analysis), Data Cleaning and that data give to Model to predict. And last save the best model (consider more r2 score as best model).
 
-# Black Friday(Kaggle Competition)
-* Customer Segments Dataset
+# Customer Segments Dataset
 Our client is an online retailer based in the UK. They sell all-occasion gifts, and many of their customers are wholesalers.
 Most of their customers are from the UK, but they have a small percent of customers from other countries.
 They want to create groups of these international customers based on their previous purchase patterns.
